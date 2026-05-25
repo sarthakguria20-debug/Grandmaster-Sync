@@ -1,0 +1,6 @@
+{
+  "name": "Grandmaster Sync",
+  "description": "Real-time multi-player chess engine featuring WebSockets state synchronization and server-side move logic validation to prevent cheating.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
